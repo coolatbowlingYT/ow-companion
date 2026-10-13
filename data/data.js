@@ -21,8 +21,8 @@ window.OW_DATA={
    "name": "Mystery Madness: Graveyard Games ends",
    "date": "2026-11-02T11:00:00-08:00",
    "verified": false,
-   "note": "The official notes say 'four wicked weeks' from Oct 6. The Nov 2 end date comes from a third-party summary, and 11 AM PT is assumed from the usual changeover time.",
-   "url": "https://updatecrazy.com/overwatch-2-update-4-38-patch-notes-season-5/"
+   "note": "Blizzard's Season 5 announcement (Oct 5, 2026) gives the event dates as October 6 to November 2. The exact end time isn't stated, so 11 AM PT is assumed from the usual changeover time.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303008/feed-your-hunger-in-reign-of-talon-season-5-a-grim-doctrine/"
   },
   {
    "name": "Overwatch Spotlight",
@@ -30,6 +30,34 @@ window.OW_DATA={
    "verified": true,
    "note": "Officially 'February 2027'. No exact date yet.",
    "url": "https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony/"
+  },
+  {
+   "name": "Overwatch x Shadow Monarch collab",
+   "date": null,
+   "verified": true,
+   "note": "Runs October 6–19, 2026 (official Season 5 announcement, Oct 5 2026). End time not announced.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303008/feed-your-hunger-in-reign-of-talon-season-5-a-grim-doctrine/"
+  },
+  {
+   "name": "Team Drives (Competitive)",
+   "date": null,
+   "verified": true,
+   "note": "Returns October 29 – November 1, 2026 (official Season 5 announcement, Oct 5 2026). Start time not announced.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303008/feed-your-hunger-in-reign-of-talon-season-5-a-grim-doctrine/"
+  },
+  {
+   "name": "Halloween maps",
+   "date": null,
+   "verified": true,
+   "note": "Halloween versions of Hollywood, Lijang Tower and Château Guillard are available through November 3, 2026 in all queues (Oct 6 2026 patch notes).",
+   "url": "https://overwatch.blizzard.com/en-us/news/patch-notes/live/2026/10/"
+  },
+  {
+   "name": "OWCS 2026 World Finals",
+   "date": null,
+   "verified": true,
+   "note": "December 2–6, 2026 in Guangzhou, China (official OWCS Stage 3 Viewers Guide, Oct 7 2026). Daily start times not announced.",
+   "url": "https://esports.overwatch.com/en-us/news/owcs-2026-stage-3-viewers-guide"
   }
  ],
  "ranks": {
@@ -180,6 +208,29 @@ window.OW_DATA={
     "emre",
     "mizuki",
     "jetpack-cat"
+   ]
+  },
+  {
+   "id": "owcs-s3",
+   "type": "esports",
+   "title": "OWCS 2026 Stage 3 schedule; World Finals Dec 2–6 in Guangzhou",
+   "date": "2026-10-07",
+   "summary": "NA and EMEA Stage 3 started October 10 at 9 AM PT with three weekends of regular season, then each region's top 4 play a double-elimination playoff (Oct 30 – Nov 1 per the official season schedule). OWCS Pacific moved to October 26–29 and November 2–3 because of regional network issues. The Asia Stage 3 Finals are at G-STAR in Busan, and the top four go to the World Finals.",
+   "url": "https://esports.overwatch.com/en-us/news/owcs-2026-stage-3-viewers-guide",
+   "source": "Overwatch Esports (official, Oct 7 2026)",
+   "heroes": []
+  },
+  {
+   "id": "s5ann",
+   "type": "event",
+   "title": "Season 5 announcement: Shadow Monarch collab, Tech Witches skins, Team Drives",
+   "date": "2026-10-05",
+   "summary": "Blizzard's Season 5 overview lists the Overwatch x Shadow Monarch collab (Oct 6–19), the Tech Witches collection for D.Mon, Shion, Juno, Sierra and Jetpack Cat (Oct 9–26), Mystery Madness (Oct 6 – Nov 2), and Team Drives returning Oct 29 – Nov 1.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303008/feed-your-hunger-in-reign-of-talon-season-5-a-grim-doctrine/",
+   "source": "Blizzard (official)",
+   "heroes": [
+    "doctrine",
+    "sombra"
    ]
   }
  ],
