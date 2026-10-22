@@ -1,12 +1,12 @@
-// Manual content snapshot. Edit here to update. Last verified 2026-10-21
+// Manual content snapshot. Edit here to update. Last verified 2026-10-22
 window.OW_DATA={
- "lastVerified": "2026-10-21",
- "snapshotNote": "All content is a manual snapshot verified on 2026-10-21. It does not update automatically.",
+ "lastVerified": "2026-10-22",
+ "snapshotNote": "All content is a manual snapshot verified on 2026-10-22. It does not update automatically.",
  "season": {
   "name": "Reign of Talon – Season 5: A Grim Doctrine",
   "start": "2026-10-06",
   "end": null,
-  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-10-21. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
+  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-10-22. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
   "source": "https://overwatch.blizzard.com/en-us/news/patch-notes/",
   "highlights": [
    "New Support hero: Doctrine",
