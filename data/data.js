@@ -1,12 +1,12 @@
-// Manual content snapshot. Edit here to update. Last verified 2026-10-26
+// Manual content snapshot. Edit here to update. Last verified 2026-10-27
 window.OW_DATA={
- "lastVerified": "2026-10-26",
- "snapshotNote": "All content is a manual snapshot verified on 2026-10-26. It does not update automatically.",
+ "lastVerified": "2026-10-27",
+ "snapshotNote": "All content is a manual snapshot verified on 2026-10-27. It does not update automatically.",
  "season": {
   "name": "Reign of Talon – Season 5: A Grim Doctrine",
   "start": "2026-10-06",
   "end": null,
-  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-10-26. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
+  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-10-27. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
   "source": "https://overwatch.blizzard.com/en-us/news/patch-notes/",
   "highlights": [
    "New Support hero: Doctrine",
@@ -58,6 +58,13 @@ window.OW_DATA={
    "verified": true,
    "note": "October 30 to November 1, 2026, double elimination with the top 4 from each region (official OWCS 2026 competitive details; matchups from Liquipedia).",
    "url": "https://esports.overwatch.com/en-us/news/owcs-2026-season-competitive-details"
+  },
+  {
+   "name": "Overwatch x EVE Protocol collab",
+   "date": null,
+   "verified": true,
+   "note": "Starts November 3, 2026 (official @PlayOverwatch post, Oct 24 2026). Start time not announced.",
+   "url": "https://x.com/PlayOverwatch/status/2114243091309687006"
   },
   {
    "name": "OWCS 2026 World Finals",
@@ -132,6 +139,22 @@ window.OW_DATA={
   "Custom game"
  ],
  "news": [
+  {
+   "id": "eve-protocol",
+   "type": "event",
+   "title": "Overwatch x EVE Protocol (Stellar Blade) collab starts November 3",
+   "date": "2026-10-24",
+   "summary": "The official Overwatch account shared the collab artwork and said the Overwatch x EVE Protocol collaboration starts November 3. A third-party report lists five skins: Widowmaker as Eve, Vendetta as Tachy, D.Va as Lily, Freja as Raven and Soldier: 76 as Adam. Blizzard hasn't posted prices or how to unlock them yet.",
+   "url": "https://x.com/PlayOverwatch/status/2114243091309687006",
+   "source": "@PlayOverwatch on X (official, Oct 24 2026 PT); skin lineup from Thisisgame SEA (third-party, unverified): https://thisisgamesea.com/game/console-gaming/overwatch-stellar-blade-collaboration-five-skins-november-3/",
+   "heroes": [
+    "widowmaker",
+    "vendetta",
+    "dva",
+    "freja",
+    "soldier-76"
+   ]
+  },
   {
    "id": "owcs-s3-playoffs",
    "type": "esports",
