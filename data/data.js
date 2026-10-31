@@ -32,13 +32,6 @@ window.OW_DATA={
    "url": "https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony/"
   },
   {
-   "name": "Team Drives (Competitive)",
-   "date": null,
-   "verified": true,
-   "note": "Returns October 29 – November 1, 2026 (official Season 5 announcement, Oct 5 2026). Start time not announced.",
-   "url": "https://overwatch.blizzard.com/en-us/news/24303008/feed-your-hunger-in-reign-of-talon-season-5-a-grim-doctrine/"
-  },
-  {
    "name": "Halloween maps",
    "date": null,
    "verified": true,
@@ -72,6 +65,37 @@ window.OW_DATA={
    "verified": true,
    "note": "December 2–6, 2026 in Guangzhou, China (official OWCS Stage 3 Viewers Guide, Oct 7 2026). Daily start times not announced.",
    "url": "https://esports.overwatch.com/en-us/news/owcs-2026-stage-3-viewers-guide"
+  }
+ ],
+ "drives": [
+  {
+   "id": "team-drive-s5-2026",
+   "name": "Team Drives (Season 5)",
+   "kind": "Team Drive",
+   "desc": "Limited-time Competitive event: when you win, matched teammates stay grouped, and keeping the team together speeds you up the Gladiator Ranks. Rewards: Competitive Points, Player Card Frames, and a Dynamic Title for the first 10,000 groups to finish the final Trial. Finish your Competitive placements first.",
+   "officialDates": "October 29 to November 1, 2026",
+   "start": "2026-10-29T11:00:00-07:00",
+   "end": "2026-11-01T11:00:00-08:00",
+   "verified": false,
+   "assumption": "Blizzard gave dates only (October 29 to November 1), with no start or end time or time zone. The 11 AM PT start and end are assumed from the first Team Drive (Sept 4 to 7, 2026, 11 AM PT to 11 AM PT). US clocks change on Nov 1, so the assumed end is 11 AM PST (19:00 UTC). The in-game timer is the final word.",
+   "source": "Blizzard: Feed Your Hunger in Reign of Talon, Season 5: A Grim Doctrine",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303008/feed-your-hunger-in-reign-of-talon-season-5-a-grim-doctrine/",
+   "published": "2026-10-05"
+  },
+  {
+   "id": "team-drive-s4-2026",
+   "name": "Team Drives (Experimental, Season 4)",
+   "kind": "Team Drive",
+   "desc": "The first Team Drive. Winners were auto-grouped and earned Fame toward Gladiator Ranks, finishing with The Trial (win 3 of your last 4). Rewards were Competitive Points, Player Card Frames, and a temporary title for the first 10,000 finishers.",
+   "officialDates": "September 4, 11 AM PT to September 7, 11 AM PT, 2026",
+   "start": "2026-09-04T11:00:00-07:00",
+   "end": "2026-09-07T11:00:00-07:00",
+   "verified": true,
+   "assumption": "",
+   "note": "Start and end times are from the official patch notes. Blizzard's Sept 4 news post said 'through September 6' instead.",
+   "source": "Blizzard: Overwatch patch notes, August 11, 2026",
+   "url": "https://overwatch.blizzard.com/en-us/news/patch-notes/live/2026/08/",
+   "published": "2026-08-11"
   }
  ],
  "ranks": {
