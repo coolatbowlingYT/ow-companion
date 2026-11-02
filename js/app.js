@@ -97,7 +97,7 @@ function drivesInner(){const now=Date.now(),ds=(D.drives||[]).filter(d=>d.start&
  const head=`<h2 id="h-drives">Overwatch Drives</h2><p class="small mute">Limited-time Competitive events. Countdowns run to the start, then to the end.</p>`;
  if(shown.some(d=>dPhase(d,now)!=="ended"))return head+shown.map(d=>driveCard(d,dPhase(d,now))).join("");
  const last=ds.filter(d=>d.verified&&dPhase(d,now)==="gone").sort((a,b)=>t0(b.end)-t0(a.end))[0];
- return head+shown.map(d=>driveCard(d,"ended")).join("")+`<p class="empty">No Drive announced right now. Snapshot checked ${fmt(D.lastVerified)}; watch <a href="https://overwatch.blizzard.com/en-us/news/" target="_blank" rel="noopener">overwatch.blizzard.com/news</a>.</p>`+(last?`<h3 class="drive-past">Most recent past Drive</h3>`+driveCard(last,"gone",true):"");}
+ return head+shown.map(d=>driveCard(d,"ended")).join("")+`<p class="empty">No Drive announced right now. Snapshot checked ${fmt(D.lastVerified)}; watch <a href="https://overwatch.blizzard.com/en-us/news/" target="_blank" rel="noopener">overwatch.blizzard.com/news</a>.</p>`+(last?`<h3 class="drive-past">Most recent past Drive with official times</h3>`+driveCard(last,"gone",true):"");}
 function tickDrives(){const box=$("#drives");if(!box)return;const now=Date.now();
  if($$(".drive:not([data-past])",box).some(a=>{const d=(D.drives||[]).find(x=>x.id===a.dataset.drive);return !d||dPhase(d,now)!==a.dataset.phase})){box.innerHTML=drivesInner();}
  $$(".drive-cd",box).forEach(el=>cdFill(el,Math.max(0,t0(el.dataset.target)-now)))}
@@ -105,7 +105,7 @@ function tick(){tickDrives();const el=$("#cd");if(!el)return;const ms=new Date(e
 setInterval(tick,1000);
 views.news=q=>{let f=q.get("type")||"all";const types=["all","patch","balance","event","esports"];
  const render=()=>{const term=($("#nq")?.value||"").toLowerCase();const list=[...D.news].sort((a,b)=>b.date.localeCompare(a.date)).filter(n=>(f==="all"||n.type===f)&&(n.title+n.summary).toLowerCase().includes(term));$("#nlist").innerHTML=list.length?list.map(newsCard).join(""):'<p class="empty">No news matches that filter.</p>';$("#ncount").textContent=`${list.length} item(s)`;$$(".chip").forEach(c=>c.setAttribute("aria-pressed",c.dataset.t===f))};
- main.innerHTML=`<h1>News</h1><p class="note"><strong>Manual snapshot</strong> verified ${fmt(D.lastVerified)}. Not a live feed. For the latest, check <a href="https://overwatch.blizzard.com/en-us/news/" target="_blank" rel="noopener">overwatch.blizzard.com/news</a>. No esports results are listed because we didn't verify any for this snapshot.</p>
+ main.innerHTML=`<h1>News</h1><p class="note"><strong>Manual snapshot</strong> verified ${fmt(D.lastVerified)}. Not a live feed. For the latest, check <a href="https://overwatch.blizzard.com/en-us/news/" target="_blank" rel="noopener">overwatch.blizzard.com/news</a>. Esports results come from official Overwatch Esports posts and Liquipedia, as noted on each item.</p>
  <div class="toolbar"><div class="chips" role="group" aria-label="Filter by type">${types.map(t=>`<button class="chip" data-t="${t}">${t}</button>`).join("")}</div><div class="field"><label for="nq">Search</label><input id="nq" type="search" placeholder="e.g. Sombra"></div><span id="ncount" class="mute" role="status"></span></div><div class="grid" id="nlist"></div>`;
  $$(".chip").forEach(c=>c.onclick=()=>{f=c.dataset.t;render()});$("#nq").oninput=render;render();
 };
