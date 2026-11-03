@@ -1,12 +1,12 @@
-// Manual content snapshot. Edit here to update. Last verified 2026-11-02
+// Manual content snapshot. Edit here to update. Last verified 2026-11-03
 window.OW_DATA={
- "lastVerified": "2026-11-02",
- "snapshotNote": "All content is a manual snapshot verified on 2026-11-02. It does not update automatically.",
+ "lastVerified": "2026-11-03",
+ "snapshotNote": "All content is a manual snapshot verified on 2026-11-03. It does not update automatically.",
  "season": {
   "name": "Reign of Talon – Season 5: A Grim Doctrine",
   "start": "2026-10-06",
   "end": null,
-  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-11-02. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
+  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-11-03. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
   "source": "https://overwatch.blizzard.com/en-us/news/patch-notes/",
   "highlights": [
    "New Support hero: Doctrine",
@@ -17,13 +17,6 @@ window.OW_DATA={
   ]
  },
  "events": [
-  {
-   "name": "Mystery Madness: Graveyard Games ends",
-   "date": "2026-11-02T11:00:00-08:00",
-   "verified": false,
-   "note": "Blizzard's Season 5 announcement (Oct 5, 2026) gives the event dates as October 6 to November 2. The exact end time isn't stated, so 11 AM PT is assumed from the usual changeover time.",
-   "url": "https://overwatch.blizzard.com/en-us/news/24303008/feed-your-hunger-in-reign-of-talon-season-5-a-grim-doctrine/"
-  },
   {
    "name": "Overwatch Spotlight",
    "date": null,
@@ -138,10 +131,21 @@ window.OW_DATA={
   "Quick Play",
   "Stadium",
   "Arcade",
-  "Mystery Madness: Graveyard Games (event)",
   "Custom game"
  ],
  "news": [
+  {
+   "id": "necrotic-knight-roadhog",
+   "type": "event",
+   "title": "Necrotic Knight Roadhog Mythic Skin arrives November 3",
+   "date": "2026-11-02",
+   "summary": "The official Overwatch account announced a new Mythic Skin, Necrotic Knight Roadhog, available starting the next day (November 3). Blizzard didn't give a price or exact release time in the post.",
+   "url": "https://x.com/PlayOverwatch/status/2117436707297493260",
+   "source": "@PlayOverwatch on X (official, Nov 2 2026 PT)",
+   "heroes": [
+    "roadhog"
+   ]
+  },
   {
    "id": "owcs-s3-grand-finals",
    "type": "esports",
@@ -182,9 +186,9 @@ window.OW_DATA={
    "type": "event",
    "title": "Overwatch x EVE Protocol (Stellar Blade) collab starts November 3",
    "date": "2026-10-24",
-   "summary": "The official Overwatch account shared the collab artwork and said the Overwatch x EVE Protocol collaboration starts November 3. A third-party report lists five skins: Widowmaker as Eve, Vendetta as Tachy, D.Va as Lily, Freja as Raven and Soldier: 76 as Adam. Blizzard hasn't posted prices or how to unlock them yet. On November 1 (PT) the official Japanese Overwatch account revealed Widowmaker's concept art for the collab and said art for the other heroes will follow.",
+   "summary": "The official Overwatch account shared the collab artwork and said the Overwatch x EVE Protocol collaboration starts November 3. A third-party report lists five skins: Widowmaker as Eve, Vendetta as Tachy, D.Va as Lily, Freja as Raven and Soldier: 76 as Adam. Blizzard hasn't posted prices or how to unlock them yet. On November 1 (PT) the official Japanese Overwatch account revealed Widowmaker's concept art for the collab and said art for the other heroes will follow. Over Nov 2 (PT) it posted concept art for Freja, Soldier: 76, Vendetta and D.Va, saying the collaboration starts tomorrow (Nov 3).",
    "url": "https://x.com/PlayOverwatch/status/2114243091309687006",
-   "source": "@PlayOverwatch on X (official, Oct 24 2026 PT); skin lineup from Thisisgame SEA (third-party, unverified): https://thisisgamesea.com/game/console-gaming/overwatch-stellar-blade-collaboration-five-skins-november-3/; Widowmaker concept art from @jpPlayOverwatch (official, Nov 1 2026 PT / Nov 2 JST, reposted by @PlayOverwatch): https://x.com/jpPlayOverwatch/status/2117149718555799726",
+   "source": "@PlayOverwatch on X (official, Oct 24 2026 PT); skin lineup from Thisisgame SEA (third-party, unverified): https://thisisgamesea.com/game/console-gaming/overwatch-stellar-blade-collaboration-five-skins-november-3/; Widowmaker concept art from @jpPlayOverwatch (official, Nov 1 2026 PT / Nov 2 JST, reposted by @PlayOverwatch): https://x.com/jpPlayOverwatch/status/2117149718555799726; D.Va concept art and start-tomorrow note: https://x.com/jpPlayOverwatch/status/2117497009418461684",
    "heroes": [
     "widowmaker",
     "vendetta",
@@ -359,7 +363,7 @@ window.OW_DATA={
    "players": "Teams (see listing)",
    "desc": "Genji-based ball game: deflect the ball toward the opposing goal.",
    "source": "https://workshop.codes/11M60",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -371,7 +375,7 @@ window.OW_DATA={
    "players": "See listing",
    "desc": "Community ball-sport variant listed under Genji Ball searches.",
    "source": "https://workshop.codes/3XJAM",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -383,7 +387,7 @@ window.OW_DATA={
    "players": "See listing",
    "desc": "Ball-sport custom game listed on workshop.codes.",
    "source": "https://workshop.codes/49054",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -395,7 +399,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "Classic chaos: a lobby of Roadhogs hooking each other toward a pit.",
    "source": "https://workshop.codes/02Q8B",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -407,7 +411,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "A 2026 take on the 12 Hooks formula.",
    "source": "https://workshop.codes/A72HH",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -419,7 +423,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "Lúcio boop variant of the hook-pit concept.",
    "source": "https://workshop.codes/6W6RS",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -431,7 +435,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course built on Ilios.",
    "source": "https://workshop.codes/0M3ZJ",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -443,7 +447,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course on Lijiang Tower.",
    "source": "https://workshop.codes/5XSV1",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -455,7 +459,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course on Petra.",
    "source": "https://workshop.codes/8SVD1",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -467,7 +471,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour on the Hanaoka map.",
    "source": "https://workshop.codes/9AE84",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -479,7 +483,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Movement-ability parkour challenges.",
    "source": "https://workshop.codes/6PVCT",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -491,7 +495,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Mix of aim targets and parkour jumps.",
    "source": "https://workshop.codes/2587X",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -503,7 +507,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Aim drills with configurable targets.",
    "source": "https://workshop.codes/12621",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -515,7 +519,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Popular community aim trainer.",
    "source": "https://workshop.codes/23VM2",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -527,7 +531,7 @@ window.OW_DATA={
    "players": "Solo / FFA",
    "desc": "Arena for hitscan practice.",
    "source": "https://workshop.codes/28X0X",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -539,7 +543,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Lightweight aim warm-up.",
    "source": "https://workshop.codes/37M8D",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -551,7 +555,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Projectile practice tuned for Wuyang.",
    "source": "https://workshop.codes/4JFM3",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -563,7 +567,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Practice hook timing.",
    "source": "https://workshop.codes/5H7SZ",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -575,7 +579,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Hide-and-seek party mode.",
    "source": "https://workshop.codes/2090H",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -587,7 +591,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Hide-and-seek variant.",
    "source": "https://workshop.codes/5PA1Y",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -599,7 +603,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Prop-hunt style hide-and-seek.",
    "source": "https://workshop.codes/9JD5G",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -611,7 +615,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Chase-style party mode.",
    "source": "https://workshop.codes/AJJY6",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -623,7 +627,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Dodgeball-like party game.",
    "source": "https://workshop.codes/1RGTB",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -635,7 +639,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Casino minigames, built for chilling between matches.",
    "source": "https://workshop.codes/2A6CA",
-   "verified": "2026-11-02",
+   "verified": "2026-11-03",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   }
