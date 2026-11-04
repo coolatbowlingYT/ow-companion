@@ -94,7 +94,7 @@ function driveCard(d,ph,past){const asm=d.verified?"":' <span class="small mute"
  <p class="small"><a href="${d.url}" target="_blank" rel="noopener">${esc(d.source)} ↗</a> <span class="mute">· published ${fmt(d.published)}</span></p></article>`}
 function drivesInner(){const now=Date.now(),ds=(D.drives||[]).filter(d=>d.start&&d.end);
  const shown=ds.filter(d=>dPhase(d,now)!=="gone").sort((a,b)=>t0(a.end)-t0(b.end));
- const head=`<h2 id="h-drives">Overwatch Drives</h2><p class="small mute">Limited-time Competitive events. Countdowns run to the start, then to the end.</p>`;
+ const head=`<h2 id="h-drives">Overwatch Drives</h2><p class="small mute">Limited-time Competitive and Quick Play events. Countdowns run to the start, then to the end.</p>`;
  if(shown.some(d=>dPhase(d,now)!=="ended"))return head+shown.map(d=>driveCard(d,dPhase(d,now))).join("");
  const last=ds.filter(d=>d.verified&&dPhase(d,now)==="gone").sort((a,b)=>t0(b.end)-t0(a.end))[0];
  return head+shown.map(d=>driveCard(d,"ended")).join("")+`<p class="empty">No Drive announced right now. Snapshot checked ${fmt(D.lastVerified)}; watch <a href="https://overwatch.blizzard.com/en-us/news/" target="_blank" rel="noopener">overwatch.blizzard.com/news</a>.</p>`+(last?`<h3 class="drive-past">Most recent past Drive with official times</h3>`+driveCard(last,"gone",true):"");}

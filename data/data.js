@@ -1,12 +1,12 @@
-// Manual content snapshot. Edit here to update. Last verified 2026-11-03
+// Manual content snapshot. Edit here to update. Last verified 2026-11-04
 window.OW_DATA={
- "lastVerified": "2026-11-03",
- "snapshotNote": "All content is a manual snapshot verified on 2026-11-03. It does not update automatically.",
+ "lastVerified": "2026-11-04",
+ "snapshotNote": "All content is a manual snapshot verified on 2026-11-04. It does not update automatically.",
  "season": {
   "name": "Reign of Talon – Season 5: A Grim Doctrine",
   "start": "2026-10-06",
   "end": null,
-  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-11-03. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
+  "endNote": "Blizzard has not announced an end date or a Season 6 date as of 2026-11-04. Some fan sites estimate early December, but that is unofficial, so no countdown is shown for it.",
   "source": "https://overwatch.blizzard.com/en-us/news/patch-notes/",
   "highlights": [
    "New Support hero: Doctrine",
@@ -25,13 +25,6 @@ window.OW_DATA={
    "url": "https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony/"
   },
   {
-   "name": "Halloween maps",
-   "date": null,
-   "verified": true,
-   "note": "Halloween versions of Hollywood, Lijang Tower and Château Guillard are available through November 3, 2026 in all queues (Oct 6 2026 patch notes).",
-   "url": "https://overwatch.blizzard.com/en-us/news/patch-notes/live/2026/10/"
-  },
-  {
    "name": "Dokiwatch 2.0 cosmetics",
    "date": null,
    "verified": true,
@@ -42,8 +35,50 @@ window.OW_DATA={
    "name": "Overwatch x EVE Protocol collab",
    "date": null,
    "verified": true,
-   "note": "Starts November 3, 2026 (official @PlayOverwatch post, Oct 24 2026). Start time not announced.",
-   "url": "https://x.com/PlayOverwatch/status/2114243091309687006"
+   "note": "Live now, November 3 through November 17, 2026 (official S5 Midcycle post, Nov 3 2026). End time not stated.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/"
+  },
+  {
+   "name": "Taking Reign event",
+   "date": null,
+   "verified": true,
+   "note": "November 3 through December 7, 2026: the five-week Reign of Talon finale event with a 24-tier Event Pass (official S5 Midcycle post and Nov 3 patch notes). End time not stated.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/"
+  },
+  {
+   "name": "Excavation Initiative",
+   "date": null,
+   "verified": true,
+   "note": "Back November 3 through December 7, 2026: weekly digs earn Loot Boxes (official S5 Midcycle post, Nov 3 2026). End time not stated.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/"
+  },
+  {
+   "name": "Black Friday Vault Sale",
+   "date": null,
+   "verified": true,
+   "note": "Curated cosmetic bundles, November 3 through December 7, 2026 (official S5 Midcycle post, Nov 3 2026).",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/"
+  },
+  {
+   "name": "Junkrat's Loot Hunt + Double XP",
+   "date": null,
+   "verified": true,
+   "note": "Official sources disagree on the start: the Nov 3 patch notes say November 19 to 23, the S5 Midcycle post says November 20 to 23, 2026. Times not announced.",
+   "url": "https://overwatch.blizzard.com/en-us/news/patch-notes/live/2026/11/"
+  },
+  {
+   "name": "OWCS World Finals Cheer Rally",
+   "date": null,
+   "verified": true,
+   "note": "Official sources disagree: the Nov 3 patch notes say challenges run November 24 to December 7 (watch rewards December 2 to 6), while the S5 Midcycle post says December 3 to 7, 2026.",
+   "url": "https://overwatch.blizzard.com/en-us/news/patch-notes/live/2026/11/"
+  },
+  {
+   "name": "Season 5 midseason Twitch Drops",
+   "date": null,
+   "verified": true,
+   "note": "Loot Boxes and sprays for watching Overwatch creators on Twitch, through November 30, 2026 (official @PlayOverwatch post, Nov 3 2026).",
+   "url": "https://x.com/PlayOverwatch/status/2117741117416333541"
   },
   {
    "name": "OWCS 2026 World Finals",
@@ -54,6 +89,36 @@ window.OW_DATA={
   }
  ],
  "drives": [
+  {
+   "id": "comp-drive-s5-dec-2026",
+   "name": "Competitive Drives (Season 5)",
+   "kind": "Drive",
+   "desc": "Drives return with a Competitive track: earn up to 3,000 Competitive Points and a Signature. Reaching the fourth checkpoint lets you equip eligible Signatures from previous seasons. You can play this and the Quick Play track at the same time.",
+   "officialDates": "December 3 to 7, 2026",
+   "start": "2026-12-03T11:00:00-08:00",
+   "end": "2026-12-07T11:00:00-08:00",
+   "verified": false,
+   "assumption": "Blizzard gave dates only (December 3 to 7, 2026), with no start or end time or time zone. The 11 AM PT (PST) start and end are assumed from the first Drive with official times (Sept 4 to 7, 2026, 11 AM PT to 11 AM PT). The in-game timer is the final word.",
+   "note": "Blizzard doesn't call these Team Drives.",
+   "source": "Blizzard: Reign of Talon – S5 Midcycle Sets Up the Showdown",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/",
+   "published": "2026-11-03"
+  },
+  {
+   "id": "qp-drive-s5-dec-2026",
+   "name": "Quick Play Drives (Season 5)",
+   "kind": "Drive",
+   "desc": "Drives come to Quick Play for the first time, on a separate track: earn up to 3,000 Legacy Weapon Points. You can play this and the Competitive track at the same time.",
+   "officialDates": "December 3 to 7, 2026",
+   "start": "2026-12-03T11:00:00-08:00",
+   "end": "2026-12-07T11:00:00-08:00",
+   "verified": false,
+   "assumption": "Blizzard gave dates only (December 3 to 7, 2026), with no start or end time or time zone. The 11 AM PT (PST) start and end are assumed from the first Drive with official times (Sept 4 to 7, 2026, 11 AM PT to 11 AM PT). The in-game timer is the final word.",
+   "note": "Blizzard doesn't call these Team Drives.",
+   "source": "Blizzard: Reign of Talon – S5 Midcycle Sets Up the Showdown",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/",
+   "published": "2026-11-03"
+  },
   {
    "id": "team-drive-s4-2026",
    "name": "Team Drives (Experimental, Season 4)",
@@ -134,6 +199,68 @@ window.OW_DATA={
   "Custom game"
  ],
  "news": [
+  {
+   "id": "patch-1103",
+   "type": "balance",
+   "title": "November 3 patch: Doctrine, Vendetta, D.Mon, Genji and Jetpack Cat nerfed; Junker Queen, Mauga, Reaper and Illari buffed",
+   "date": "2026-11-03",
+   "summary": "The midseason balance patch. Nerfs: Doctrine primary recovery 0.6→0.65s, Infused damage 90→80 and healing 120→110, Shrouded Momentum cooldown 8→10s and Infuse cooldown 8→9s; Vendetta Palatine Fang leap speed 11→9.5 and swing delay 0.15→0.2s; D.Mon Propulsors impact damage 15→0 and Overstrike lifesteal 150%→125%; Genji Deflect 2→1.5s; Jetpack Cat health 225→200; Ana Biotic Grenade explosion damage 90→60; Sombra Hotfix 12→10s and Cyberspace Weaken 50%→40%. Buffs: Junker Queen health 375→425 and Carnage cooldown 9→7s; Mauga armor 125→150 and burn 15→20; Ramattra ammo 100→125; Reaper health 275→300; Anran Zhuque Fans 22→24 (Inferno Rush loses its knockback); Brigitte Inspire healing 12→15; Illari Healing Pylon 40→50. It also improves gameplay sabotage detection and adds 'Thank You' notices for reports that led to action.",
+   "url": "https://overwatch.blizzard.com/en-us/news/patch-notes/live/2026/11/",
+   "source": "Blizzard patch notes (official, Nov 3 2026)",
+   "heroes": [
+    "doctrine",
+    "vendetta",
+    "dmon",
+    "genji",
+    "jetpack-cat",
+    "ana",
+    "sombra",
+    "junker-queen",
+    "mauga",
+    "ramattra",
+    "reaper",
+    "anran",
+    "brigitte",
+    "illari",
+    "shion",
+    "emre",
+    "echo",
+    "hanzo",
+    "winston"
+   ]
+  },
+  {
+   "id": "s5-midcycle",
+   "type": "event",
+   "title": "Season 5 midseason: Taking Reign event, EVE Protocol collab, and Drives come to Quick Play in December",
+   "date": "2026-11-03",
+   "summary": "Blizzard's midseason post covers Taking Reign (Nov 3 to Dec 7), the finale of the Reign of Talon story, with a free Epic Sigma recolor and a 1,000-coin premium pass that includes Legendary Resurgence Doomfist and a Legendary Vendetta weapon. Overwatch x EVE Protocol runs Nov 3 to 17, Mythic Necrotic Knight Roadhog arrived Nov 3, Excavation Initiative and the Black Friday Vault Sale run Nov 3 to Dec 7, Junkrat's Loot Hunt with Double XP returns Nov 20 to 23 (the patch notes say Nov 19 to 23), and Competitive and Quick Play Drives run Dec 3 to 7.",
+   "url": "https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/",
+   "source": "Blizzard (official, Nov 3 2026); Nov 3 patch notes: https://overwatch.blizzard.com/en-us/news/patch-notes/live/2026/11/",
+   "heroes": [
+    "doomfist",
+    "vendetta",
+    "sigma",
+    "roadhog",
+    "junkrat"
+   ]
+  },
+  {
+   "id": "eve-protocol-live",
+   "type": "event",
+   "title": "Overwatch x EVE Protocol is live through November 17",
+   "date": "2026-11-03",
+   "summary": "The collab is out now with five skins: Widowmaker as EVE, D.Va as Lily (an Ultra skin with custom kill effects and a unique emote), Freja as Raven, Vendetta as Tachy and Soldier: 76 as Adam. Blizzard's midseason post says it ends November 17.",
+   "url": "https://x.com/PlayOverwatch/status/2117693460257923375",
+   "source": "@PlayOverwatch on X (official, Nov 3 2026 PT); dates and skin details: https://overwatch.blizzard.com/en-us/news/24303010/reign-of-talon-s5-midcycle-sets-up-the-showdown/",
+   "heroes": [
+    "widowmaker",
+    "dva",
+    "freja",
+    "vendetta",
+    "soldier-76"
+   ]
+  },
   {
    "id": "necrotic-knight-roadhog",
    "type": "event",
@@ -363,7 +490,7 @@ window.OW_DATA={
    "players": "Teams (see listing)",
    "desc": "Genji-based ball game: deflect the ball toward the opposing goal.",
    "source": "https://workshop.codes/11M60",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -375,7 +502,7 @@ window.OW_DATA={
    "players": "See listing",
    "desc": "Community ball-sport variant listed under Genji Ball searches.",
    "source": "https://workshop.codes/3XJAM",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -387,7 +514,7 @@ window.OW_DATA={
    "players": "See listing",
    "desc": "Ball-sport custom game listed on workshop.codes.",
    "source": "https://workshop.codes/49054",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -399,7 +526,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "Classic chaos: a lobby of Roadhogs hooking each other toward a pit.",
    "source": "https://workshop.codes/02Q8B",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -411,7 +538,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "A 2026 take on the 12 Hooks formula.",
    "source": "https://workshop.codes/A72HH",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -423,7 +550,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "Lúcio boop variant of the hook-pit concept.",
    "source": "https://workshop.codes/6W6RS",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -435,7 +562,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course built on Ilios.",
    "source": "https://workshop.codes/0M3ZJ",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -447,7 +574,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course on Lijiang Tower.",
    "source": "https://workshop.codes/5XSV1",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -459,7 +586,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course on Petra.",
    "source": "https://workshop.codes/8SVD1",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -471,7 +598,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour on the Hanaoka map.",
    "source": "https://workshop.codes/9AE84",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -483,7 +610,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Movement-ability parkour challenges.",
    "source": "https://workshop.codes/6PVCT",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -495,7 +622,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Mix of aim targets and parkour jumps.",
    "source": "https://workshop.codes/2587X",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -507,7 +634,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Aim drills with configurable targets.",
    "source": "https://workshop.codes/12621",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -519,7 +646,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Popular community aim trainer.",
    "source": "https://workshop.codes/23VM2",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -531,7 +658,7 @@ window.OW_DATA={
    "players": "Solo / FFA",
    "desc": "Arena for hitscan practice.",
    "source": "https://workshop.codes/28X0X",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -543,7 +670,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Lightweight aim warm-up.",
    "source": "https://workshop.codes/37M8D",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -555,7 +682,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Projectile practice tuned for Wuyang.",
    "source": "https://workshop.codes/4JFM3",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -567,7 +694,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Practice hook timing.",
    "source": "https://workshop.codes/5H7SZ",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -579,7 +706,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Hide-and-seek party mode.",
    "source": "https://workshop.codes/2090H",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -591,7 +718,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Hide-and-seek variant.",
    "source": "https://workshop.codes/5PA1Y",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -603,7 +730,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Prop-hunt style hide-and-seek.",
    "source": "https://workshop.codes/9JD5G",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -615,7 +742,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Chase-style party mode.",
    "source": "https://workshop.codes/AJJY6",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -627,7 +754,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Dodgeball-like party game.",
    "source": "https://workshop.codes/1RGTB",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -639,7 +766,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Casino minigames, built for chilling between matches.",
    "source": "https://workshop.codes/2A6CA",
-   "verified": "2026-11-03",
+   "verified": "2026-11-04",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   }
