@@ -1,7 +1,7 @@
-// Manual content snapshot. Edit here to update. Last verified 2026-11-06
+// Manual content snapshot. Edit here to update. Last verified 2026-11-07
 window.OW_DATA={
- "lastVerified": "2026-11-06",
- "snapshotNote": "All content is a manual snapshot verified on 2026-11-06. It does not update automatically.",
+ "lastVerified": "2026-11-07",
+ "snapshotNote": "All content is a manual snapshot verified on 2026-11-07. It does not update automatically.",
  "season": {
   "name": "Reign of Talon – Season 5: A Grim Doctrine",
   "start": "2026-10-06",
@@ -199,6 +199,16 @@ window.OW_DATA={
   "Custom game"
  ],
  "news": [
+  {
+   "id": "japan-allstars-2",
+   "type": "esports",
+   "title": "Overwatch Japan All-Stars is coming back for a second edition",
+   "date": "2026-11-07",
+   "summary": "The official Japanese Overwatch account announced a second Overwatch Japan All-Stars. The 20 top Japanese players chosen by fan vote will be drafted into teams for an offline showdown. Dates and voting details are on the official event site linked in the post.",
+   "url": "https://x.com/jpPlayOverwatch/status/2118976863699607861",
+   "source": "@jpPlayOverwatch on X (official, Nov 7 2026 JST / Nov 7 PT)",
+   "heroes": []
+  },
   {
    "id": "hotfix-1105",
    "type": "balance",
@@ -528,7 +538,7 @@ window.OW_DATA={
    "players": "Teams (see listing)",
    "desc": "Genji-based ball game: deflect the ball toward the opposing goal.",
    "source": "https://workshop.codes/11M60",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -540,7 +550,7 @@ window.OW_DATA={
    "players": "See listing",
    "desc": "Community ball-sport variant listed under Genji Ball searches.",
    "source": "https://workshop.codes/3XJAM",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -552,7 +562,7 @@ window.OW_DATA={
    "players": "See listing",
    "desc": "Ball-sport custom game listed on workshop.codes.",
    "source": "https://workshop.codes/49054",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -564,7 +574,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "Classic chaos: a lobby of Roadhogs hooking each other toward a pit.",
    "source": "https://workshop.codes/02Q8B",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -576,7 +586,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "A 2026 take on the 12 Hooks formula.",
    "source": "https://workshop.codes/A72HH",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -588,7 +598,7 @@ window.OW_DATA={
    "players": "Up to 12",
    "desc": "Lúcio boop variant of the hook-pit concept.",
    "source": "https://workshop.codes/6W6RS",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -600,7 +610,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course built on Ilios.",
    "source": "https://workshop.codes/0M3ZJ",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -612,7 +622,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course on Lijiang Tower.",
    "source": "https://workshop.codes/5XSV1",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -624,7 +634,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour course on Petra.",
    "source": "https://workshop.codes/8SVD1",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -636,7 +646,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Parkour on the Hanaoka map.",
    "source": "https://workshop.codes/9AE84",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -648,7 +658,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Movement-ability parkour challenges.",
    "source": "https://workshop.codes/6PVCT",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -660,7 +670,7 @@ window.OW_DATA={
    "players": "Solo / any",
    "desc": "Mix of aim targets and parkour jumps.",
    "source": "https://workshop.codes/2587X",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -672,7 +682,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Aim drills with configurable targets.",
    "source": "https://workshop.codes/12621",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -684,7 +694,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Popular community aim trainer.",
    "source": "https://workshop.codes/23VM2",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -696,7 +706,7 @@ window.OW_DATA={
    "players": "Solo / FFA",
    "desc": "Arena for hitscan practice.",
    "source": "https://workshop.codes/28X0X",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -708,7 +718,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Lightweight aim warm-up.",
    "source": "https://workshop.codes/37M8D",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -720,7 +730,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Projectile practice tuned for Wuyang.",
    "source": "https://workshop.codes/4JFM3",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -732,7 +742,7 @@ window.OW_DATA={
    "players": "Solo",
    "desc": "Practice hook timing.",
    "source": "https://workshop.codes/5H7SZ",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -744,7 +754,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Hide-and-seek party mode.",
    "source": "https://workshop.codes/2090H",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -756,7 +766,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Hide-and-seek variant.",
    "source": "https://workshop.codes/5PA1Y",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -768,7 +778,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Prop-hunt style hide-and-seek.",
    "source": "https://workshop.codes/9JD5G",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -780,7 +790,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Chase-style party mode.",
    "source": "https://workshop.codes/AJJY6",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -792,7 +802,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Dodgeball-like party game.",
    "source": "https://workshop.codes/1RGTB",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   },
@@ -804,7 +814,7 @@ window.OW_DATA={
    "players": "Group",
    "desc": "Casino minigames, built for chilling between matches.",
    "source": "https://workshop.codes/2A6CA",
-   "verified": "2026-11-06",
+   "verified": "2026-11-07",
    "status": "listed",
    "note": "Code taken from a workshop.codes listing on 2026-10-20; not tested in-game. Workshop codes can expire or be updated by authors."
   }
