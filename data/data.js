@@ -203,7 +203,7 @@ window.OW_DATA={
    "id": "owcs-kr-cn-stage3-champions",
    "type": "esports",
    "title": "OWCS Stage 3: T1 win Korea, Once Again win China, both headed to the World Finals",
-   "date": "2026-11-09",
+   "date": "2026-11-08",
    "summary": "T1 beat ZETA DIVISION 4-1 in the OWCS Korea Stage 3 grand final, taking first place and qualifying directly for the World Finals in Guangzhou (Crazy Raccoon beat Team Falcons 4-1 for third). In China, Once Again (listed as Weibo Gaming on Liquipedia) swept All Gamers 4-0 in the Stage 3 grand final, and the official OWCS account congratulated them on their World Finals qualification. The OWCS Asia Finals in Busan run November 20 to 22.",
    "url": "https://x.com/OW_Esports/status/2119414639381590389",
    "source": "@OW_Esports on X (official, Nov 8 2026 PT): T1 Korea champions; Once Again World Finals qualification: https://x.com/OW_Esports/status/2119429738775392487; Asia Finals dates from @OW_Esports_Asia (official, Nov 6 2026): https://x.com/OW_Esports_Asia/status/2118657895663603998. Scores from Liquipedia (checked Nov 8 2026): https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/Asia/Stage_3/Korea and https://liquipedia.net/overwatch/Overwatch_Champions_Series/2026/China/Stage_3",
