@@ -1,7 +1,7 @@
-// Manual content snapshot. Edit here to update. Last verified 2026-11-09
+// Manual content snapshot. Edit here to update. Last verified 2026-11-10
 window.OW_DATA={
- "lastVerified": "2026-11-09",
- "snapshotNote": "All content is a manual snapshot verified on 2026-11-09. It does not update automatically.",
+ "lastVerified": "2026-11-10",
+ "snapshotNote": "All content is a manual snapshot verified on 2026-11-10. It does not update automatically.",
  "season": {
   "name": "Reign of Talon – Season 5: A Grim Doctrine",
   "start": "2026-10-06",
@@ -23,13 +23,6 @@ window.OW_DATA={
    "verified": true,
    "note": "Officially 'February 2027'. No exact date yet.",
    "url": "https://news.blizzard.com/en-us/article/24301453/everything-announced-at-blizzcon-2026-opening-ceremony/"
-  },
-  {
-   "name": "Dokiwatch 2.0 cosmetics",
-   "date": null,
-   "verified": true,
-   "note": "Dokiwatch 2.0 cosmetics are available October 20 through November 9, 2026 (official Weekly(ish) Recall, Oct 20 2026). End time not stated.",
-   "url": "https://overwatch.blizzard.com/en-us/news/24304078/weekly-ish-recall-double-the-doki/"
   },
   {
    "name": "Overwatch x EVE Protocol collab",
